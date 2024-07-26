@@ -1,0 +1,32 @@
+body {
+    background-image: url('Images/BackgroundMenu.png');
+    background-position: center;
+    background-attachment: fixed;
+
+    text-align: center;
+
+    size: 10px;
+}
+
+.wrapper-main {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.for-socials {
+    width: 90px;
+    text-align: center;
+}
+
+@font-face {
+    font-family: vcr;
+    src: url(VCR_OSD_MONO.ttf);
+}
+
+body {
+    font-family: vcr;
+}
+
+button {
+    font-family: vcr;
+}
